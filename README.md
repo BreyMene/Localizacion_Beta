@@ -1,6 +1,6 @@
 # Localizacion
 
-EL SCRIPT SE ENCUENTRA EN LA CARPETA ConsoleApp>Program.cs
+EL SCRIPT SE ENCUENTRA EN LA CARPETA ConsoleApp>ConsoleApp>Program.cs
 
 Integrantes:
 - Breyner Felipe Meneses Muñoz
