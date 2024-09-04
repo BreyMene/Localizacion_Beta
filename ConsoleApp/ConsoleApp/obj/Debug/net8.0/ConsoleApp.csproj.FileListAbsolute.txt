@@ -1,0 +1,15 @@
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\FamiliaMenesesMuñoz\Desktop\Breyner\ProgSoft\Proyecto\Localizacion\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
